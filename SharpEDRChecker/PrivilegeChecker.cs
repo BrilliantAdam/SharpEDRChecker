@@ -1,5 +1,5 @@
 ﻿using System.Security.Principal;
-
+//
 namespace SharpEDRChecker
 {
     internal class PrivilegeChecker
